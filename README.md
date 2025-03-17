@@ -1,5 +1,6 @@
 <img align='right' width = 400 src = 'Images/Banner.webp'>
-# 💫 About Me:
+<br>
+#💫 About Me:
 I am studying Master of Information Technology currently<br>
 
 
