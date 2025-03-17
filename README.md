@@ -1,5 +1,5 @@
 <h1>Hazel</h1>
-
+<img src = 'Images/Banner.webp'>
 # 💫 About Me:
 I am studying Master of Information Technology currently<br>
 
