@@ -87,5 +87,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanishcodes&show_icons=true&locale=en&layout=compact" alt="sanishcodes" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanishcodes&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="sanishcodes" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanishcodes&show_icons=true&locale=en" alt="sanishcodes" /></p>
