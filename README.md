@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanish Shrestha</h1>
 <h3 align="center">A passionate machine learning engineer based in Sydney</h3>
+<img align='right' width='400' src='https://imgs.search.brave.com/7r3fmwOBxXp3qw0qhrYjFRc0N-L4-ASndPEs-7xXEJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEyLzcwLzEyLzQz/LzM2MF9GXzEyNzAx/MjQzMzRfdGlnZFln/YVZSem8yb1JkWGhU/MlZRMW1welQyUWJR/b3guanBn'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanishcodes&label=Profile%20views&color=0e75b6&style=flat" alt="sanishcodes" /> </p>
 
