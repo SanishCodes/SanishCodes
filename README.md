@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://gifdb.com/images/high/hd-blue-matrix-coding-c0ik089cyzg8t2dh.webp)" width="100%" alt="Coding GIF">
+</p>
 <h1 align="center">Hi 👋, I'm Sanish Shrestha</h1>
 <h3 align="center">A passionate machine learning engineer based in Sydney</h3>
 
