@@ -1,6 +1,4 @@
-
-<img src = 'Images/Banner.webp'>
-<h2> 💫 About Me: </h2>
+# 💫 About Me:
 I am studying Master of Information Technology currently<br>
 
 
