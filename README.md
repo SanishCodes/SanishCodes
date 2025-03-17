@@ -1,3 +1,5 @@
+<h1>Hazel</h1>
+
 # 💫 About Me:
 I am studying Master of Information Technology currently<br>
 
