@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Drowsiness Detection Machine Learning Model**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently on a **AWS Certified Machine Learning-Specialty Course**
 
 - 💬 Ask me about **LLMs, Data Analysis**
 
