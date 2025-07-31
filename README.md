@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanishcodes&label=Profile%20views&color=0e75b6&style=flat" alt="sanishcodes" /> </p>
 
-- 🔭 I’m currently working on **Drowsiness Detection Machine Learning Model**
+- 🔭 I’m currently working on **AI FITNESS COACH APPLICATION**
 
 - 🌱 I’m currently on a **AWS Certified Machine Learning-Specialty Course**
 
